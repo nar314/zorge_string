@@ -199,7 +199,6 @@ public class MainWindow {
 			taOutput.setBackground(colorGreen);
 		}
 		catch(Exception e) {
-			e.printStackTrace();
 			taOutput.setBackground(colorRed);
 			Utils.MessageBox_Error("Error.");
 		}
