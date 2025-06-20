@@ -1,4 +1,4 @@
-# [zorge_secret_keeper](https://github.com/nar314/zorge_string) - Encrypt string for whatever reason.
+# [zorge_string](https://github.com/nar314/zorge_string) - Encrypt string for whatever reason.
 
 ## What is this.
 I build this one as a tool to encrypt and decrypt strings using same password.
